@@ -2,4 +2,4 @@ markdown_extensions:
   - tables
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - Javascripts/tablesort.js
+  - docs/Javascripts/tablesort.js
