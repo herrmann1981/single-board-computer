@@ -2,6 +2,12 @@
 Small collection of single board computers
 
 
+| Method      | Description                          |
+| ----------- | ------------------------------------ |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+
 ```json:table
 {
     "fields" : [
